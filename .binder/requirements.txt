@@ -24,7 +24,7 @@ enum-compat==0.0.3        # via streamlit
 future==0.18.2            # via streamlit
 idna==2.8                 # via requests
 importlib-metadata==1.4.0  # via jsonschema
-jinja2==2.10.3            # via altair
+jinja2==2.11.3            # via altair
 jmespath==0.9.4           # via boto3, botocore
 jsonschema==3.2.0         # via altair
 markupsafe==1.1.1         # via jinja2
