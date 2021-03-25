@@ -39,7 +39,7 @@ protobuf==3.11.2          # via streamlit
 pyrsistent==0.15.7        # via jsonschema
 python-dateutil==2.8.0    # via botocore, pandas, streamlit
 pytz==2019.3              # via pandas, tzlocal
-pyyaml==5.3               # via watchdog
+pyyaml==5.4               # via watchdog
 regex==2020.1.8           # via black
 requests==2.22.0          # via streamlit
 s3transfer==0.3.0         # via boto3
