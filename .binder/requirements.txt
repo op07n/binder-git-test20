@@ -33,7 +33,7 @@ numpy==1.18.1             # via altair, pandas, streamlit
 pandas==0.25.3            # via altair, streamlit
 pathspec==0.7.0           # via black
 pathtools==0.1.2          # via watchdog
-pillow==7.0.0             # via streamlit
+pillow==8.2.0             # via streamlit
 pip-tools==4.3.0
 protobuf==3.11.2          # via streamlit
 pyrsistent==0.15.7        # via jsonschema
