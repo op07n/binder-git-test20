@@ -35,7 +35,7 @@ pathspec==0.7.0           # via black
 pathtools==0.1.2          # via watchdog
 pillow==7.0.0             # via streamlit
 pip-tools==4.3.0
-protobuf==3.11.2          # via streamlit
+protobuf==3.15.0          # via streamlit
 pyrsistent==0.15.7        # via jsonschema
 python-dateutil==2.8.0    # via botocore, pandas, streamlit
 pytz==2019.3              # via pandas, tzlocal
